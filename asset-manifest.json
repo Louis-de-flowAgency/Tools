@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tools/static/css/main.4f6783df.chunk.css",
+    "main.js": "/Tools/static/js/main.1cfb2220.chunk.js",
+    "main.js.map": "/Tools/static/js/main.1cfb2220.chunk.js.map",
+    "runtime-main.js": "/Tools/static/js/runtime-main.7f72cb0d.js",
+    "runtime-main.js.map": "/Tools/static/js/runtime-main.7f72cb0d.js.map",
+    "static/css/2.94154659.chunk.css": "/Tools/static/css/2.94154659.chunk.css",
+    "static/js/2.552149c6.chunk.js": "/Tools/static/js/2.552149c6.chunk.js",
+    "static/js/2.552149c6.chunk.js.map": "/Tools/static/js/2.552149c6.chunk.js.map",
+    "static/js/3.b6f703e7.chunk.js": "/Tools/static/js/3.b6f703e7.chunk.js",
+    "static/js/3.b6f703e7.chunk.js.map": "/Tools/static/js/3.b6f703e7.chunk.js.map",
+    "index.html": "/Tools/index.html",
+    "static/css/2.94154659.chunk.css.map": "/Tools/static/css/2.94154659.chunk.css.map",
+    "static/css/main.4f6783df.chunk.css.map": "/Tools/static/css/main.4f6783df.chunk.css.map",
+    "static/js/2.552149c6.chunk.js.LICENSE.txt": "/Tools/static/js/2.552149c6.chunk.js.LICENSE.txt",
+    "static/media/logo.b7cbbec8.png": "/Tools/static/media/logo.b7cbbec8.png",
+    "static/media/index.css": "/Tools/static/media/montserrat-latin-900italic.efcaa0f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f72cb0d.js",
+    "static/css/2.94154659.chunk.css",
+    "static/js/2.552149c6.chunk.js",
+    "static/css/main.4f6783df.chunk.css",
+    "static/js/main.1cfb2220.chunk.js"
+  ]
+}
